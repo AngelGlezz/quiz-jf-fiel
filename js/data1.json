@@ -1,0 +1,438 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "",
+      "respuestas": [
+        {
+          "respuesta": "Solo en casa",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Una buena comida",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Con cervezas y amigos",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "En el cine",
+          "tipo": "false"
+        }
+        ,
+        {
+          "respuesta": "En el estadio",
+          "tipo": "false"
+        }
+        ,
+        {
+          "respuesta": "A veces no los veo",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "",
+      "respuestas": [
+        {
+          "respuesta": "Lo sigo por redes sociales",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Le aviso a todos los invitados como van, lo veo en mi cel",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Llego tarde, ¿¡cómo se le ocurre!?",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Finjo ser despistado, se me olvidó que era hoy",
+          "tipo": "false"
+        }
+        ,
+        {
+          "respuesta": "Invento un pretexto para no herirlo y no voy",
+          "tipo": "false"
+        }
+        ,
+        {
+          "respuesta": "Ni modo después sabré como quedamos",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "",
+      "respuestas": [
+        {
+          "respuesta": "Me pongo la playera al otro día aún así",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Apago la tele antes de que acabe el partido",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Nada que unas cervezas no puedan arreglar",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Lloro toda la noche",
+          "tipo": "false"
+        }
+        ,
+        {
+          "respuesta": "Me hago el que no lo vi",
+          "tipo": "false"
+        }
+        ,
+        {
+          "respuesta": "No voy a trabajar o a la escuela el lunes",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "",
+      "respuestas": [
+        {
+          "respuesta": "Me quedo a ver a mi equipo",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Salgo a buscar suerte en el amor",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Nos vamos de fiesta",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "FIFA y otros videojuegos",
+          "tipo": "false"
+        }
+        ,
+        {
+          "respuesta": "Cine con mi novia",
+          "tipo": "false"
+        }
+        ,
+        {
+          "respuesta": "Puro futbol, aunque no sea mi club",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "",
+      "respuestas": [
+        {
+          "respuesta": "Se lo dedico a mi novia",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "A lo Cantona",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Le agradezco al de la asistencia",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Miro hacia el cielo",
+          "tipo": "false"
+        }
+        ,
+        {
+          "respuesta": "Se lo canto al contrario",
+          "tipo": "false"
+        }
+        ,
+        {
+          "respuesta": "Abrazo con todo el equipo",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "",
+      "respuestas": [
+        {
+          "respuesta": "Me la paso llorando",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Hay otros peces en el agua",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Salgo de fiesta",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Veo todos los partidos que pueda",
+          "tipo": "false"
+        }
+        ,
+        {
+          "respuesta": "Me distraigo con el FIFA",
+          "tipo": "false"
+        }
+        ,
+        {
+          "respuesta": "Me pongo a leer",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "",
+      "respuestas": [
+        {
+          "respuesta": "Es mi vida",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Pura dedicación",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Pretexto para divertime",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Es mi afición",
+          "tipo": "false"
+        }
+        ,
+        {
+          "respuesta": "¡Que nadie se meta con él!",
+          "tipo": "false"
+        }
+        ,
+        {
+          "respuesta": "Me da igual",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "",
+      "respuestas": [
+        {
+          "respuesta": "Que nací",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Soy villamelón",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Que lo vi campeón",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Yo futbol de Europa",
+          "tipo": "false"
+        }
+        ,
+        {
+          "respuesta": "No sé ni por qué le voy",
+          "tipo": "false"
+        }
+        ,
+        {
+          "respuesta": "No le voy a nadie",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "",
+      "respuestas": [
+        {
+          "respuesta": "No me la creo y hasta lloro",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Obvio, somos los mejores",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Olvido el entorno y festejo como loco",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Festejo con los míos",
+          "tipo": "false"
+        }
+        ,
+        {
+          "respuesta": "Les festejo a todos en la cara",
+          "tipo": "false"
+        }
+        ,
+        {
+          "respuesta": "Los felicito por su buen desempeño",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "",
+      "respuestas": [
+        {
+          "respuesta": "Acepto la derrota",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Culpo al árbitro",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Publico algo a favor de mi equipo",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Reconozco al rival",
+          "tipo": "false"
+        }
+        ,
+        {
+          "respuesta": "Insulto a todos",
+          "tipo": "false"
+        }
+        ,
+        {
+          "respuesta": "No las abro",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "",
+      "respuestas": [
+        {
+          "respuesta": "Nada más el de mi equipo",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Los que no interfieran con mis planes",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Yo pura fiesta",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Los que me deje mi novia",
+          "tipo": "false"
+        }
+        ,
+        {
+          "respuesta": "Todos los que pueda",
+          "tipo": "false"
+        }
+        ,
+        {
+          "respuesta": "A veces ninguno",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "",
+      "respuestas": [
+        {
+          "respuesta": "Casual aunque quiera usar la de mi club",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Una camiseta fresona, papá",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Medio urbano",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Me quedo en pijama",
+          "tipo": "false"
+        }
+        ,
+        {
+          "respuesta": "Los colores de mi equipo",
+          "tipo": "false"
+        }
+        ,
+        {
+          "respuesta": "Traje conservador",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "",
+      "respuestas": [
+        {
+          "respuesta": "Prendo las notificaciones en el celular",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Ya sé que vamos a ganar, da igual",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "¿Una cena sin fut? ¿Qué es eso?",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Convenzo a todos de prender la tele",
+          "tipo": "false"
+        }
+        ,
+        {
+          "respuesta": "Hago acto de presencia y me subo fingiendo dolor de estómago",
+          "tipo": "false"
+        }
+        ,
+        {
+          "respuesta": "Siempre hay tiempo para disfrutar a la familia",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "",
+      "respuestas": [
+        {
+          "respuesta": "Derrota segura",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "¿Quién?, vamos a ganar",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Aunque sea un empate le sacamos",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Será difícil pero no imposible",
+          "tipo": "false"
+        }
+        ,
+        {
+          "respuesta": "Mejor ni veo el partido",
+          "tipo": "false"
+        }
+        ,
+        {
+          "respuesta": "Lo importante es divertirse",
+          "tipo": "false"
+        }
+      ]
+    }
+  ]
+}
