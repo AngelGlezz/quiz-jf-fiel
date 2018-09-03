@@ -285,12 +285,12 @@ function finish_test(total){
 			text = encodeURIComponent("Te conocen como el Zlatan de tu colonia y no precisamente por jugar como él. Sólo sabes estar de equipo en equipo y así como hoy puede estar ganando “tu” equipo, mañana ya los cambiaste");
 		}
 		
-		var url = encodeURIComponent("http://juanfutbol.com/indepth/de-quien-eres-aficionado-pumas-o-america");
+		var url = encodeURIComponent("http://juanfutbol.com/indepth/que-tan-fiel-le-eres-a-tu-equipo");
 		window.open("https://twitter.com/share?text="+text+"&hashtags=JFQuiz&url="+url,"","width=500, height=300");
 	});
 
 	$("#indepth_facebook").click(function(){
-		var url = encodeURIComponent("http://juanfutbol.com/indepth/de-quien-eres-aficionado-pumas-o-america?m="+total);
+		var url = encodeURIComponent("http://juanfutbol.com/indepth/que-tan-fiel-le-eres-a-tu-equipo?m="+total);
 		window.open("https://www.facebook.com/sharer/sharer.php?u="+url,"","width=500, height=300");
 	});
 }
